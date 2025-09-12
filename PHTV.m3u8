@@ -1365,99 +1365,59 @@
     https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/RHI6oEh.png" channel-number="Converge" group-title="Converge",BBC Earth
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
-    
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
     https://linearjitp-playback.astro.com.my/dash-wv/linear/5051/default_ott.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" channel-number="Converge" group-title="Converge",BBC Lifestyle
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
-    
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
     https://linearjitp-playback.astro.com.my/dash-wv/linear/5050/default_ott.mpd
-    
+
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/hTscg8e.png" channel-number="Converge" group-title="Converge",BBC News
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
-    
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
     https://linearjitp-playback.astro.com.my/dash-wv/linear/1008/default_ott.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/La3o9MU.png" channel-number="Converge" group-title="Converge",Bloomberg TV
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
-    
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
     https://linearjitp-playback.astro.com.my/dash-wv/linear/5020/default_ott.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/CIBoLmB.png" channel-number="Converge" group-title="Converge",W-Sport
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
-    
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
     https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/HBisPOA.png" channel-number="Converge" group-title="Converge",CCTV 4
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
-    
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
     https://linearjitp-playback.astro.com.my/dash-wv/linear/403/default_ott.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/XdZyAtM.png" channel-number="Converge" group-title="Converge",Eurosport
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
-    
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
     https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_ott.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/BGQ38xe.png" channel-number="Converge" group-title="Converge",France 24
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
-    
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
     https://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/WyzkAHR.png" channel-number="Converge" group-title="Converge",CNN International
@@ -1496,23 +1456,15 @@
     http://161.49.17.2:6610/001/2/ch00000090990000001283/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/Pf8CNau.png" channel-number="Converge" group-title="Converge",Cinemo! iwant
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
-    
     https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemo-dash-abscbnono/6f83e359-8454-497c-9018-01e0571d6789/index.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/hWQBUvT.png" channel-number="Converge" group-title="Converge",Dateline
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=002029fcdaae2385eedf0fd9332c3c90:33b97956f316d0b65e9fd28888e7c7a9
-    
     https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc112xzr75)/master.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/dCMafGV.png" channel-number="Converge" group-title="Converge",Disney Channel HD
@@ -1528,179 +1480,108 @@
     https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/9onUNhZ.png" channel-number="Converge" group-title="Converge",Disney XD
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
-    
     https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png" group-title="Converge",GMA Pinoy TV
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
-    
     https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/XCkPHYC.png" group-title="Converge" ch-number="Converge" type="Converge",History 2
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415
-    
     https://cdn.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd?|origin=https://portal.app.flow.com.ar
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/gfFaRwH.png" channel-number="Converge" group-title="Converge",Golf Channel
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
-    
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
     https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/LkisXI3.png" group-title="Converge",GolfPass
-    
     #KODIPROP:inputstream.adaptive.license_type=clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key={"0020212a47511b226f7cc9d030aa171b":"323c16315e1cb8d7c821facc3c1778a4"}
-    
     https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc124phhny)/master.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/iomniFU.png" channel-number="Converge" group-title="Converge",K-Plus
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
-    
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
     https://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/3BCg3pS.png" group-title="Converge",Movies Now
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-    
     https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/j8x0nhs.png" channel-number="Converge" group-title="Converge",MTV Live ast
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
-    
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
     https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
-    
+
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/VMx7Xxl.png" channel-number="Converge" group-title="Converge",NFL
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-    
     https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
-    
+
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/CJYMh2F.png" group-title="Converge",NFL Channel
-    
     #KODIPROP:inputstream.adaptive.license_type=clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key={"002007110c69a23803173b50eab05f23":"590d6e8f4ca81319f9bb29104f571990"}
-    
     https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/dAPtBTh.png" group-title="Converge",Premier League
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-    
     https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/jaGqbyh.png" group-title="Converge",Studio Universal
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
-    
     https://fta1-cdn-flr.visionplus.id/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/BbrAmpY.png" channel-number="Converge" group-title="Converge",TFC
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
-    
     https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/e14fe6d2-d899-4d38-aa61-2701b04a4153/index.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/MfkSpMr.png" group-title="Converge",Top Gear
-    
     #KODIPROP:inputstream.adaptive.license_type=clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key={"0020a49a0d48d25362f30057e72f0b4a":"86abf8c2a6f693a958c6492bef11ee81"}
-    
     https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc124p21qf)/master.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/PnXi655.png" channel-number="Converge" group-title="Converge",WWE
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-    
     https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
     
     #EXTINF:-1 tvg-id="Converge" tvg-logo="https://i.imgur.com/Qy1Mcoc.png" channel-number="Converge" group-title="Converge",Zee Cinema
-    
     #KODIPROP:inputstream.adaptive.manifest_type=dash
-    
     #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
-    
     #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-    
     https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
     
     #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-logo="https://i.postimg.cc/v8rFtMbz/espn.png" group-title="Converge",ESPN
-    
     #EXTVLCOPT:network-caching=1000
-    
     #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.6723.73 Mobile Safari/537.36
-    
     #KODIPROP:inputstreamaddon=inputstream.adaptive
-    
     #KODIPROP:inputstream.adaptive.manifest_type=mpd
-    
     #KODIPROP:inputstream.adaptive.license_type=clearkey
-    
     #KODIPROP:inputstream.adaptive.license_key=0f85a4e1fc5937a827313597d04f8e27:cc1d8219be0130da85e4c4ce73a75abb
-    
     https://covoslivechannels2dash.clarovideo.com/Content/DASH_DASH_FK/Live/Channel(ESPN_HD)/manifest.mpd?|referer=https://covoslivechannels2dash.clarovideo.com/
     
     #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-logo="https://i.postimg.cc/mksxWpNC/espn2-logo-white.png" group-title="Converge",ESPN 2
@@ -1874,7 +1755,6 @@
 
 
 
-    
     //========================================================================
     //								KIDS
     //========================================================================
